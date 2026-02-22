@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# SSIS
+*.dtproj.user
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
