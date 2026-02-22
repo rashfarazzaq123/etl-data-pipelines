@@ -1,0 +1,4 @@
+{
+  "db_server": "prod-sql-01",
+  "database": "CRM_PROD"
+}
